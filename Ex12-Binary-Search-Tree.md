@@ -19,7 +19,7 @@ Program to insert the elements in the binary search tree
 Developed by:Krishna Prasad S
 RegisterNumber: 212223230108
 ```
-```
+```c
 *structnode
 {
   int key;
